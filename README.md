@@ -1,6 +1,6 @@
 # Information
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello%20I'm%20Garam&fontColor=ffffff&fontSize=90)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwzz08&count_bg=%23C1C2D7&title_bg=%23597FD9&icon=&icon_color=%23E7E7E7&title=Welcome+to+Garam%27s&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwzz08&count_bg=%23C1C2D7&title_bg=%23597FD9&icon=&icon_color=%23E7E7E7&title=Welcome+to+Roy%27s&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 # Introduction
