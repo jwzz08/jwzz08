@@ -4,7 +4,7 @@
 
 
 # Introduction
-- Name : Garam Yoo
+- Name : Roy Yoo
 - Email : garam810@gmail.com
 - hobby : cooking, taking care of my dog
   
