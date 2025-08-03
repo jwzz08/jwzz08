@@ -5,7 +5,7 @@
 
 # Introduction
 - Name : Roy Yoo
-- Email : garam810@gmail.com
+- Email : jolly03200320@gmail.com
 - hobby : cooking, taking care of my dog
   
 
